@@ -1,0 +1,26 @@
+### Hi there 👋
+## About Me
+Major
+
+## Skills & Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Excel&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-A100FF?style=flat-square&logo=Sogou&logoColor=white"> 
+
+## GitHub Stats
+![woosol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangwoosol&show_icons=true&theme=radical)
+
+<!--
+**jangwoosol/jangwoosol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
